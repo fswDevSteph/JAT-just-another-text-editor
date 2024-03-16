@@ -12,13 +12,10 @@ https://github.com/fswDevSteph/JAT-just-another-text-editor
 
 N/A
 
-## Contributers
+## Contributors
 
-Tutors
-Tutors: Full names unknown.
+Tutors, AskBC Assistants
 
-AskBC Assistants
-Full names: Unknown
 
 ## Known Issues:
 
